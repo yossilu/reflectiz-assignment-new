@@ -30,12 +30,12 @@ The system provides security and identity information about domains. It scans th
 ### Language and Libraries
 
 **Requirement:** Use TypeScript on Node.js or any well-known language.  
-**Implementation:** Your project is written in TypeScript on Node.js.
+**Implementation:** the assignment is written in TypeScript on Node.js.
 
 ### Database
 
 **Requirement:** Use any database you like.  
-**Implementation:** You are using MongoDB with Mongoose.
+**Implementation:** I am using MongoDB with Mongoose.
 
 ### Input Validation and Security
 
